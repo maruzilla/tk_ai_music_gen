@@ -150,7 +150,7 @@ label_question_j = ttk.Label(root, text="", width=80)
 label_question_j.grid(row=6, column=0, columnspan=3, padx=5, pady=5)
 
 # AI Model	(ComboBox)
-label_ai_model = ttk.Label(root, text="Whitch AI Model ? :")
+label_ai_model = ttk.Label(root, text="Which AI Model ? :")
 label_ai_model.grid(row=7, column=0)
 cbox_ai_model = ttk.Combobox(root, values=["GPT", "Claude", "Gemini"], state="readonly", width=20)
 cbox_ai_model.set("GPT")						# Default
