@@ -4,6 +4,7 @@
 Enter a chord progression and let the AI ​​(GPT-4o / Claude 3.5 sonnet / Gemini) create a melody that matches it.
 
 Requirements:
+
 Python execution environment, API key for ChatGPT or Claude or Gemini.
 (If you have any of these, that's OK)
 
