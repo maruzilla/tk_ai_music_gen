@@ -4,8 +4,8 @@
 Enter a chord progression and let the AI ​​(GPT-4o / Claude 3.5 sonnet / Gemini) create a melody that matches it.
 
 Requirements:
-
-Python execution environment, API key for ChatGPT or Claude or Gemini.
+Python execution environment, 
+API key for ChatGPT or Claude or Gemini.
 (If you have any of these, that's OK)
 
 Usage:
@@ -30,7 +30,8 @@ The author assumes no responsibility whatsoever for any damages arising from the
 それぞれ作らせるアプリです。
 
 必要なもの: 
-Python 実行環境、ChatGPT or Claude or Geminiの API-Key. 
+Python 実行環境、
+ChatGPT or Claude or Geminiの API-Key. 
 （どれか一つでもお持もちでしたらOKです）
 
 使い方:
